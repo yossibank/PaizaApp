@@ -14,6 +14,11 @@
 		781A8FA12AD4263B00F87103 /* PaizaAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 781A8FA02AD4263B00F87103 /* PaizaAppTests.swift */; };
 		781A8FAB2AD4263B00F87103 /* PaizaAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 781A8FAA2AD4263B00F87103 /* PaizaAppUITests.swift */; };
 		781A8FAD2AD4263B00F87103 /* PaizaAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 781A8FAC2AD4263B00F87103 /* PaizaAppUITestsLaunchTests.swift */; };
+		78704FD82AD42A070013185D /* Paiza1 in Resources */ = {isa = PBXBuildFile; fileRef = 78704FD72AD42A070013185D /* Paiza1 */; };
+		78704FDA2AD42A420013185D /* Paiza2 in Resources */ = {isa = PBXBuildFile; fileRef = 78704FD92AD42A420013185D /* Paiza2 */; };
+		78704FDE2AD42AC00013185D /* Paiza3 in Resources */ = {isa = PBXBuildFile; fileRef = 78704FDB2AD42AC00013185D /* Paiza3 */; };
+		78704FDF2AD42AC00013185D /* Paiza4 in Resources */ = {isa = PBXBuildFile; fileRef = 78704FDC2AD42AC00013185D /* Paiza4 */; };
+		78704FE02AD42AC00013185D /* Paiza5 in Resources */ = {isa = PBXBuildFile; fileRef = 78704FDD2AD42AC00013185D /* Paiza5 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +49,11 @@
 		781A8FA62AD4263B00F87103 /* PaizaAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PaizaAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		781A8FAA2AD4263B00F87103 /* PaizaAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaizaAppUITests.swift; sourceTree = "<group>"; };
 		781A8FAC2AD4263B00F87103 /* PaizaAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaizaAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		78704FD72AD42A070013185D /* Paiza1 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Paiza1; sourceTree = "<group>"; };
+		78704FD92AD42A420013185D /* Paiza2 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Paiza2; sourceTree = "<group>"; };
+		78704FDB2AD42AC00013185D /* Paiza3 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Paiza3; sourceTree = "<group>"; };
+		78704FDC2AD42AC00013185D /* Paiza4 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Paiza4; sourceTree = "<group>"; };
+		78704FDD2AD42AC00013185D /* Paiza5 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Paiza5; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +84,7 @@
 		781A8F832AD4263900F87103 = {
 			isa = PBXGroup;
 			children = (
+				78704FD62AD428880013185D /* Paiza */,
 				781A8F8E2AD4263900F87103 /* PaizaApp */,
 				781A8F9F2AD4263B00F87103 /* PaizaAppTests */,
 				781A8FA92AD4263B00F87103 /* PaizaAppUITests */,
@@ -125,6 +136,18 @@
 				781A8FAC2AD4263B00F87103 /* PaizaAppUITestsLaunchTests.swift */,
 			);
 			path = PaizaAppUITests;
+			sourceTree = "<group>";
+		};
+		78704FD62AD428880013185D /* Paiza */ = {
+			isa = PBXGroup;
+			children = (
+				78704FD72AD42A070013185D /* Paiza1 */,
+				78704FD92AD42A420013185D /* Paiza2 */,
+				78704FDB2AD42AC00013185D /* Paiza3 */,
+				78704FDC2AD42AC00013185D /* Paiza4 */,
+				78704FDD2AD42AC00013185D /* Paiza5 */,
+			);
+			path = Paiza;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,8 +254,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78704FDE2AD42AC00013185D /* Paiza3 in Resources */,
 				781A8F972AD4263A00F87103 /* Preview Assets.xcassets in Resources */,
+				78704FDA2AD42A420013185D /* Paiza2 in Resources */,
+				78704FE02AD42AC00013185D /* Paiza5 in Resources */,
 				781A8F942AD4263A00F87103 /* Assets.xcassets in Resources */,
+				78704FD82AD42A070013185D /* Paiza1 in Resources */,
+				78704FDF2AD42AC00013185D /* Paiza4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

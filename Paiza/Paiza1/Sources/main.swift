@@ -3,11 +3,11 @@
 // aとbを比較して大きい方の値を出力してください
 // aとbが同じ場合は「eq」文字列を出力してください
 
-func compare(a: Int, b: Int) {
+func test(a: Int, b: Int) {
     print(a, b)
 }
 
 // 入力例1: 「a: 10, b: 30」 出力例1: 「30」
 // 入力例2: 「a: 99, b: 99」 出力例2: 「"eq"」
 
-compare(a: 10, b: 30)
+test(a: 10, b: 30)

@@ -1,4 +1,12 @@
-// The Swift Programming Language
-// https://docs.swift.org/swift-book
+// 【問題】
+// ある正の整数nがあります
+// 正の整数1から9にnを掛けた数を半角スペース区切りで出力してください
 
-print("Hello, world!")
+func test(n: Int) {
+    print(n)
+}
+
+// 入力例1: 「n: 4」 出力例1: 「4 8 12 16 20 24 28 32 36」
+// 入力例2: 「n: 99」 出力例2: 「99 198 297 396 495 594 693 792 891」
+
+test(n: 1)

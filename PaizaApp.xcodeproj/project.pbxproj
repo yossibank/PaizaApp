@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		781A8F902AD4263900F87103 /* PaizaAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 781A8F8F2AD4263900F87103 /* PaizaAppApp.swift */; };
+		781A8F902AD4263900F87103 /* PaizaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 781A8F8F2AD4263900F87103 /* PaizaApp.swift */; };
 		781A8F922AD4263900F87103 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 781A8F912AD4263900F87103 /* ContentView.swift */; };
 		781A8F942AD4263A00F87103 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 781A8F932AD4263A00F87103 /* Assets.xcassets */; };
 		781A8F972AD4263A00F87103 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 781A8F962AD4263A00F87103 /* Preview Assets.xcassets */; };
@@ -40,7 +40,7 @@
 
 /* Begin PBXFileReference section */
 		781A8F8C2AD4263900F87103 /* PaizaApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PaizaApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		781A8F8F2AD4263900F87103 /* PaizaAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaizaAppApp.swift; sourceTree = "<group>"; };
+		781A8F8F2AD4263900F87103 /* PaizaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaizaApp.swift; sourceTree = "<group>"; };
 		781A8F912AD4263900F87103 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		781A8F932AD4263A00F87103 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		781A8F962AD4263A00F87103 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -105,7 +105,7 @@
 		781A8F8E2AD4263900F87103 /* PaizaApp */ = {
 			isa = PBXGroup;
 			children = (
-				781A8F8F2AD4263900F87103 /* PaizaAppApp.swift */,
+				781A8F8F2AD4263900F87103 /* PaizaApp.swift */,
 				781A8F912AD4263900F87103 /* ContentView.swift */,
 				781A8F932AD4263A00F87103 /* Assets.xcassets */,
 				781A8F952AD4263A00F87103 /* Preview Content */,
@@ -286,7 +286,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				781A8F922AD4263900F87103 /* ContentView.swift in Sources */,
-				781A8F902AD4263900F87103 /* PaizaAppApp.swift in Sources */,
+				781A8F902AD4263900F87103 /* PaizaApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

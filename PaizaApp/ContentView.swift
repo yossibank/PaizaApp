@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  PaizaApp
-//
-//  Created by Kamiyama Yoshihito on 2023/10/09.
-//
-
 import SwiftUI
 
 struct ContentView: View {

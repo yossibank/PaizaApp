@@ -1,11 +1,14 @@
 import Foundation
 
 func answer(n: Int, s: String) {
-    if s == "km" {
+    switch s {
+    case "km":
         print(n * 1000 * 100 * 10)
-    } else if s == "m" {
+    case "m":
         print(n * 100 * 10)
-    } else if s == "cm" {
+    case "cm":
         print(n * 10)
+    default:
+        break
     }
 }

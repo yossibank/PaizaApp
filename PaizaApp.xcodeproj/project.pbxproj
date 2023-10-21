@@ -19,6 +19,7 @@
 		78704FDE2AD42AC00013185D /* Paiza3 in Resources */ = {isa = PBXBuildFile; fileRef = 78704FDB2AD42AC00013185D /* Paiza3 */; };
 		78704FDF2AD42AC00013185D /* Paiza4 in Resources */ = {isa = PBXBuildFile; fileRef = 78704FDC2AD42AC00013185D /* Paiza4 */; };
 		78704FE02AD42AC00013185D /* Paiza5 in Resources */ = {isa = PBXBuildFile; fileRef = 78704FDD2AD42AC00013185D /* Paiza5 */; };
+		78BACC0C2AE375E300718CCB /* Paiza6 in Resources */ = {isa = PBXBuildFile; fileRef = 78BACC0B2AE375E300718CCB /* Paiza6 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		78704FDB2AD42AC00013185D /* Paiza3 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Paiza3; sourceTree = "<group>"; };
 		78704FDC2AD42AC00013185D /* Paiza4 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Paiza4; sourceTree = "<group>"; };
 		78704FDD2AD42AC00013185D /* Paiza5 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Paiza5; sourceTree = "<group>"; };
+		78BACC0B2AE375E300718CCB /* Paiza6 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Paiza6; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +148,7 @@
 				78704FDB2AD42AC00013185D /* Paiza3 */,
 				78704FDC2AD42AC00013185D /* Paiza4 */,
 				78704FDD2AD42AC00013185D /* Paiza5 */,
+				78BACC0B2AE375E300718CCB /* Paiza6 */,
 			);
 			path = Paiza;
 			sourceTree = "<group>";
@@ -255,6 +258,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				78704FDE2AD42AC00013185D /* Paiza3 in Resources */,
+				78BACC0C2AE375E300718CCB /* Paiza6 in Resources */,
 				781A8F972AD4263A00F87103 /* Preview Assets.xcassets in Resources */,
 				78704FDA2AD42A420013185D /* Paiza2 in Resources */,
 				78704FE02AD42AC00013185D /* Paiza5 in Resources */,

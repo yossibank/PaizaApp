@@ -30,6 +30,7 @@
 		78D2B5BE2AFF1B2500B263A1 /* Paiza14 in Resources */ = {isa = PBXBuildFile; fileRef = 78D2B5BD2AFF1B2500B263A1 /* Paiza14 */; };
 		78D2B5C02AFF1C5200B263A1 /* Paiza15 in Resources */ = {isa = PBXBuildFile; fileRef = 78D2B5BF2AFF1C5200B263A1 /* Paiza15 */; };
 		78D2B5C22AFF1DAB00B263A1 /* Paiza16 in Resources */ = {isa = PBXBuildFile; fileRef = 78D2B5C12AFF1DAB00B263A1 /* Paiza16 */; };
+		78D2B5C42AFF1FC900B263A1 /* Paiza17 in Resources */ = {isa = PBXBuildFile; fileRef = 78D2B5C32AFF1FC900B263A1 /* Paiza17 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,6 +77,7 @@
 		78D2B5BD2AFF1B2500B263A1 /* Paiza14 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Paiza14; sourceTree = "<group>"; };
 		78D2B5BF2AFF1C5200B263A1 /* Paiza15 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Paiza15; sourceTree = "<group>"; };
 		78D2B5C12AFF1DAB00B263A1 /* Paiza16 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Paiza16; sourceTree = "<group>"; };
+		78D2B5C32AFF1FC900B263A1 /* Paiza17 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Paiza17; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -179,6 +181,7 @@
 				78D2B5BD2AFF1B2500B263A1 /* Paiza14 */,
 				78D2B5BF2AFF1C5200B263A1 /* Paiza15 */,
 				78D2B5C12AFF1DAB00B263A1 /* Paiza16 */,
+				78D2B5C32AFF1FC900B263A1 /* Paiza17 */,
 			);
 			path = Paiza;
 			sourceTree = "<group>";
@@ -302,6 +305,7 @@
 				78704FE02AD42AC00013185D /* Paiza5 in Resources */,
 				781A8F942AD4263A00F87103 /* Assets.xcassets in Resources */,
 				78BACC142AE3918800718CCB /* Paiza10 in Resources */,
+				78D2B5C42AFF1FC900B263A1 /* Paiza17 in Resources */,
 				78D2B5C22AFF1DAB00B263A1 /* Paiza16 in Resources */,
 				78704FD82AD42A070013185D /* Paiza1 in Resources */,
 				78704FDF2AD42AC00013185D /* Paiza4 in Resources */,

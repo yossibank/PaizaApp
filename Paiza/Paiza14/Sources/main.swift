@@ -7,6 +7,6 @@ func test(s: String, n: Int) {
 }
 
 // 入力例1: 「s: aabbccdd, n: 5」 出力例1: 「aabbc」
-// 入力例2: 「s: oiuytrer, n: 8」 出力例1: 「oiuytrer」
+// 入力例2: 「s: oiuytrer, n: 8」 出力例2: 「oiuytrer」
 
 test(s: "s", n: 1)

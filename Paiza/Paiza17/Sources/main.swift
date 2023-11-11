@@ -7,6 +7,6 @@ func test(s: String, t: String) {
 }
 
 // 入力例1: 「s: paiza, t: paiza」 出力例1: 「Yes」
-// 入力例1: 「s: gino, t: paiza」 出力例2: 「No」
+// 入力例2: 「s: gino, t: paiza」 出力例2: 「No」
 
 test(s: "paiza", t: "paiza")

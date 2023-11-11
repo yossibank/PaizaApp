@@ -7,6 +7,6 @@ func test(s: String) {
 }
 
 // 入力例1: 「s: PAIZA」 出力例1: 「2」
-// 入力例1: 「s: aAaAaAa」 出力例2: 「3」
+// 入力例2: 「s: aAaAaAa」 出力例2: 「3」
 
 test(s: "PAIZA")

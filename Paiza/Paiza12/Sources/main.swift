@@ -6,7 +6,7 @@ func test(s: String) {
     print(s)
 }
 
-// 入力例1: 「s: paiza]」 出力例1: 「PAIZA」
-// 入力例2: 「s: abcdefg]」 出力例1: 「ABCDEFG」
+// 入力例1: 「s: paiza」 出力例1: 「PAIZA」
+// 入力例2: 「s: abcdefg」 出力例1: 「ABCDEFG」
 
 test(s: "s")

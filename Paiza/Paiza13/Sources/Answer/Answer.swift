@@ -1,7 +1,7 @@
 import Foundation
 
 func answer(n: Int) {
-    (1...n).sorted(by: { $0 > $1 }).forEach {
+    (1...n).sorted(by: >).forEach {
         print($0)
     }
 }

@@ -1,3 +1,5 @@
+import Foundation
+
 // 【問題: 表面積の計算】
 // 正六面体の辺の長さがaで入力されます
 // 辺の長さaの正六面体の表面積を出力してください
@@ -6,12 +8,6 @@
 // 入力例1: 「a: 4」 出力例1: 「96」
 // 入力例2: 「a: 1」 出力例2: 「6」
 
-myAnswer1(a: 4)
-
-// 複数回復習したい場合は「MyAnswer」フォルダに新たにファイルを作成してください
-// 「MyAnswer」
-//   - MyAnswer1.swift
-//   - MyAnswer2.swift
-
-// 実行はここで行います
-// myAnswer1(a: 6)
+func myAnswer1(a: Int) {
+    print(a)
+}

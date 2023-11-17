@@ -1,3 +1,5 @@
+import Foundation
+
 // 【問題: 数の比較】
 // ある正の整数aとbがあります
 // aとbを比較して大きい方の値を出力してください
@@ -6,13 +8,6 @@
 // 入力例1: 「a: 10, b: 30」 出力例1: 「30」
 // 入力例2: 「a: 99, b: 99」 出力例2: 「"eq"」
 
-// main.swiftで定義したものが実行されます
-myAnswer1(a: 1, b: 1)
-
-// 複数回復習したい場合は「MyAnswer」フォルダに新たにファイルを作成してください
-// 「MyAnswer」
-//   - MyAnswer1.swift
-//   - MyAnswer2.swift
-
-// 実行はここで行います
-// myAnswer2(a: 2, b: 2)
+func myAnswer1(a: Int, b: Int) {
+    print(a, b)
+}

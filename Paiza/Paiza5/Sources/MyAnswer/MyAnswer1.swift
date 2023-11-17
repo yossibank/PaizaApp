@@ -1,3 +1,5 @@
+import Foundation
+
 // 【問題: 単位の計算】
 // ある正の整数nと距離の単位を表す文字列sがあります
 // nをsに合わせてすべてmmに変換して出力してください
@@ -7,13 +9,6 @@
 // 入力例2: 「n: 2, s: "cm"」 出力例2: 「20」
 // 入力例3: 「n: 12, s: "m"」 出力例3: 「12000」
 
-// main.swiftで定義したものが実行されます
-myAnswer1(n: 1, s: "km")
-
-// 複数回復習したい場合は「MyAnswer」フォルダに新たにファイルを作成してください
-// 「MyAnswer」
-//   - MyAnswer1.swift
-//   - MyAnswer2.swift
-
-// 実行はここで行います
-// myAnswer2(n: 10, s: "m")
+func myAnswer1(n: Int, s: String) {
+    print(n, s)
+}

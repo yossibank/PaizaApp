@@ -1,3 +1,5 @@
+import Foundation
+
 // 【問題: 三角形の内角の和】
 // 平面上の三角形の2つの角の角度a, bがそれぞれ入力されます
 // 残りの1つの角の角度を出力してください
@@ -6,12 +8,6 @@
 // 入力例1: 「a: 60, b: 90」 出力例1: 「30」
 // 入力例2: 「a: 45, b: 45」 出力例2: 「90」
 
-myAnswer1(a: 60, b: 90)
-
-// 複数回復習したい場合は「MyAnswer」フォルダに新たにファイルを作成してください
-// 「MyAnswer」
-//   - MyAnswer1.swift
-//   - MyAnswer2.swift
-
-// 実行はここで行います
-// myAnswer2(a: 45, b: 45)
+func myAnswer1(a: Int, b: Int) {
+    print(a, b)
+}

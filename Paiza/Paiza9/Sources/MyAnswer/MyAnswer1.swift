@@ -1,3 +1,5 @@
+import Foundation
+
 // 【問題: アルファベットで何番目】
 // アルファベットのA~Zの中から1文字入力されます
 // Aを1番目としてアルファベット順で何番目かを出力してください
@@ -5,12 +7,6 @@
 // 入力例1: 「s: C」 出力例1: 「3」
 // 入力例2: 「s: X」 出力例2: 「24」
 
-myAnswer1(s: "A")
-
-// 複数回復習したい場合は「MyAnswer」フォルダに新たにファイルを作成してください
-// 「MyAnswer」
-//   - MyAnswer1.swift
-//   - MyAnswer2.swift
-
-// 実行はここで行います
-// myAnswer2(s: "B")
+func myAnswer1(s: String) {
+    print(s)
+}

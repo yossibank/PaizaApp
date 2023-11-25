@@ -24,6 +24,7 @@
 		78897F8F2B11B37700F9520D /* Paiza23 in Resources */ = {isa = PBXBuildFile; fileRef = 78897F8E2B11B37700F9520D /* Paiza23 */; };
 		78897F912B11C08700F9520D /* Paiza24 in Resources */ = {isa = PBXBuildFile; fileRef = 78897F902B11C08700F9520D /* Paiza24 */; };
 		78897F952B11C2C800F9520D /* Paiza25 in Resources */ = {isa = PBXBuildFile; fileRef = 78897F942B11C2C800F9520D /* Paiza25 */; };
+		78897F972B11C4AE00F9520D /* Paiza26 in Resources */ = {isa = PBXBuildFile; fileRef = 78897F962B11C4AE00F9520D /* Paiza26 */; };
 		78BACC0C2AE375E300718CCB /* Paiza6 in Resources */ = {isa = PBXBuildFile; fileRef = 78BACC0B2AE375E300718CCB /* Paiza6 */; };
 		78BACC0E2AE38B1900718CCB /* Paiza7 in Resources */ = {isa = PBXBuildFile; fileRef = 78BACC0D2AE38B1900718CCB /* Paiza7 */; };
 		78BACC102AE38C7C00718CCB /* Paiza8 in Resources */ = {isa = PBXBuildFile; fileRef = 78BACC0F2AE38C7C00718CCB /* Paiza8 */; };
@@ -79,6 +80,7 @@
 		78897F8E2B11B37700F9520D /* Paiza23 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Paiza23; sourceTree = "<group>"; };
 		78897F902B11C08700F9520D /* Paiza24 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Paiza24; sourceTree = "<group>"; };
 		78897F942B11C2C800F9520D /* Paiza25 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Paiza25; sourceTree = "<group>"; };
+		78897F962B11C4AE00F9520D /* Paiza26 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Paiza26; sourceTree = "<group>"; };
 		78BACC0B2AE375E300718CCB /* Paiza6 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Paiza6; sourceTree = "<group>"; };
 		78BACC0D2AE38B1900718CCB /* Paiza7 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Paiza7; sourceTree = "<group>"; };
 		78BACC0F2AE38C7C00718CCB /* Paiza8 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Paiza8; sourceTree = "<group>"; };
@@ -206,6 +208,7 @@
 				78897F8E2B11B37700F9520D /* Paiza23 */,
 				78897F902B11C08700F9520D /* Paiza24 */,
 				78897F942B11C2C800F9520D /* Paiza25 */,
+				78897F962B11C4AE00F9520D /* Paiza26 */,
 			);
 			path = Paiza;
 			sourceTree = "<group>";
@@ -330,6 +333,7 @@
 				78BACC0E2AE38B1900718CCB /* Paiza7 in Resources */,
 				78D2B5B62AFF15C300B263A1 /* Paiza11 in Resources */,
 				781A8F972AD4263A00F87103 /* Preview Assets.xcassets in Resources */,
+				78897F972B11C4AE00F9520D /* Paiza26 in Resources */,
 				78704FDA2AD42A420013185D /* Paiza2 in Resources */,
 				78BACC102AE38C7C00718CCB /* Paiza8 in Resources */,
 				78897F952B11C2C800F9520D /* Paiza25 in Resources */,

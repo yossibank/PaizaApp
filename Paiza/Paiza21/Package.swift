@@ -4,8 +4,8 @@
 import PackageDescription
 
 let package = Package(
-    name: "Paiza19",
+    name: "Paiza21",
     targets: [
-        .executableTarget(name: "Paiza19")
+        .executableTarget(name: "Paiza21")
     ]
 )
